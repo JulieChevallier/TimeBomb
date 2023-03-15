@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Launch Screen.unity
+    guid: 1120791be46a94645a8cb18959d2711a
+  - enabled: 1
+    path: Assets/Scenes/Start Screen.unity
+    guid: fb451a48072ee14458014d2c1f0c991d
+  - enabled: 1
+    path: Assets/Scenes/MapDino.unity
+    guid: 15d2c13177c2fd649853c2c04f0e6270
+  - enabled: 1
+    path: Assets/Scenes/MapMedieval.unity
+    guid: 6e7e65eebe5f4dc469190f8397f6d9e0
+  - enabled: 1
+    path: Assets/Scenes/MapFutur.unity
+    guid: a2ac23c76bc32b04f9c8f7768cf0cf4c
+  - enabled: 1
+    path: Assets/Scenes/End_Screen.unity
+    guid: 384d769d66286eb4f80847e41e68f92f
+  - enabled: 1
+    path: Assets/Scenes/Options Screen.unity
+    guid: 2ba1cbfc2e2d63b44b5045c11721cafb
+  m_configObjects: {}
