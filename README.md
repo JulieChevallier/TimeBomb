@@ -1,3 +1,5 @@
+**Vous pouvez retrouver notre jeu et le télécharger pour y jouer sur notre page [itch.io](https://rebeloteequipe3.itch.io/cgj-rebelote-timebomb)**
+
 # TimeBomb
 
 Ce jeu a été réalisé durant la Code Game Jam 2023, 7ème édition.
