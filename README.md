@@ -2,7 +2,7 @@
 
 # TimeBomb
 
-Ce jeu a été réalisé durant la Code Game Jam 2023, 7ème édition.
+Ce jeu a été réalisé durant la [`Code Game Jam`](https://codegamejam.extragames.fr/), 7ème édition [2023].
  * Gagnant du `Prix Étudiant` : choix du public.
  * Gagnant du `Prix Coup de Cœur` : choix des professionnels.
 
